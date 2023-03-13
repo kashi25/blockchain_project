@@ -1,0 +1,25 @@
+# Compiled code
+*.class
+*.o
+
+# Temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+
+# Logs and backups
+log/
+backup/
+
+# Configuration files
+.env
+.config
+
+# Third-party libraries
+/node_modules/
+/pip_packages/
+
+# Private information
+secrets/
+passwords/
